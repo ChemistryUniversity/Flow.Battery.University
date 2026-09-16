@@ -1,4 +1,4 @@
 - [The Future of Energy Storage Beyond Lithium Ion](https://youtu.be/JxGP9cYbwdk)
 - [How a Vanadium Redox Flow Battery Works | Sumitomo Electric](https://youtu.be/TSsqCazP1V0)
 - [Why Salt Water may be the Future of Batteries](https://youtu.be/vm2hNNA4lvM)
-- [New Aqueous Zinc Battery Breakthrough - Real Deal or Hype?](
+- [New Aqueous Zinc Battery Breakthrough - Real Deal or Hype?](https://youtu.be/1yPqyFb48sY)
