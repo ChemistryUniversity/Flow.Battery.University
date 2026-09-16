@@ -1,2 +1,3 @@
 - [The Future of Energy Storage Beyond Lithium Ion](https://youtu.be/JxGP9cYbwdk)
 - [How a Vanadium Redox Flow Battery Works | Sumitomo Electric](https://youtu.be/TSsqCazP1V0)
+- [Why Salt Water may be the Future of Batteries](
